@@ -18,11 +18,11 @@ The analysis is performed entirely in **Excel**, using formulas and modeling tec
 ## Dashboard Screenshots
 
 ### Project Cost & NPV Table
-![Project Financial Table](images/01.png)
+![Project Financial Table](image/01.png)
 
 ### Manager Assignment Matrix
-![Manager Assignment](images/02.png)
----
+![Manager Assignment](image/02.png)
+
 
 ## Methodology
 **Step 1: Initial Project Filtering**
